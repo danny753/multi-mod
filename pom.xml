@@ -25,6 +25,7 @@
     </repository>
     <snapshotRepository>
       <id>Snapshots</id>
+      <!-- whatsup nigga-->
       <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
