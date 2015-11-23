@@ -17,6 +17,7 @@
   <scm>
     <developerConnection>scm:git:https://github.com/danny753/multi-mod.git</developerConnection>
     <url>https://github.com/danny753/multi-mod.git</url>
+    <!.. I reduced the line buddy...>
   </scm>
   <distributionManagement>
     <repository>
